@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.denomination {
+  border-color: #c4c4c4;
+  border-radius: 5px;
+  background-color: #382f5a;
+  max-width: 300px;
+  font-size: 22px;
+  font-weight: 800;
+  color: #d4d2db;
+  margin: 15px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
